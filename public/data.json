@@ -1,0 +1,132 @@
+{
+  "categories": [
+    {
+      "name": "Exclusive Indian Movies",
+      "videos": [
+        {
+          "id": 1,
+          "title": "Salaar",
+          "thumbnail": "/thumbnails/salaar.jpg",
+          "description": "A violent rebel rises to take down a corrupt system.",
+          "genre": "Action",
+          "youtubeUrl": "https://www.youtube.com/embed/4GPvYMKtrtI"
+        },
+        {
+          "id": 2,
+          "title": "HIT 3",
+          "thumbnail": "/thumbnails/hit3.jpg",
+          "description": "Arjun Sarkaar, a fierce cop from the HIT team, hunts a twisted serial killer in a gritty thriller.",
+          "genre": "Crime/Thriller"
+        },
+        {
+          "id": 3,
+          "title": "Pushpa: The Rise",
+          "thumbnail": "/thumbnails/pushpa.jpg",
+          "description": "A red sandalwood smuggler rises to power.",
+          "genre": "Action"
+        },
+        {
+          "id": 4,
+          "title": "RRR",
+          "thumbnail": "/thumbnails/rrr.jpg",
+          "description": "Two revolutionaries fight for India's freedom.",
+          "genre": "Historical"
+        },
+        {
+          "id": 5,
+          "title": "KGF: Chapter 2",
+          "thumbnail": "/thumbnails/kgf2.jpg",
+          "description": "Rocky returns to rule the gold empire.",
+          "genre": "Action"
+        },
+        {
+          "id": 6,
+          "title": "Sita Ramam",
+          "thumbnail": "/thumbnails/sita-ramam.jpg",
+          "description": "A soldier’s love story unfolds through letters.",
+          "genre": "Romance"
+        }
+      ]
+    },
+    {
+      "name": "Hollywood Blockbusters",
+      "videos": [
+        {
+          "id": 7,
+          "title": "Avengers: Endgame",
+          "thumbnail": "/thumbnails/endgame.jpg",
+          "description": "The Avengers unite for one final battle.",
+          "genre": "Action/Sci-Fi"
+        },
+        {
+          "id": 8,
+          "title": "Inception",
+          "thumbnail": "/thumbnails/inception.jpg",
+          "description": "A thief enters dreams to steal secrets.",
+          "genre": "Sci-Fi/Thriller"
+        },
+        {
+          "id": 9,
+          "title": "The Dark Knight",
+          "thumbnail": "/thumbnails/dark-knight.jpg",
+          "description": "Batman faces off against the Joker.",
+          "genre": "Action"
+        },
+        {
+          "id": 10,
+          "title": "Interstellar",
+          "thumbnail": "/thumbnails/interstellar.jpg",
+          "description": "A team ventures through a wormhole to save humanity.",
+          "genre": "Sci-Fi/Drama"
+        },
+        {
+          "id": 11,
+          "title": "Top Gun: Maverick",
+          "thumbnail": "/thumbnails/top-gun.jpg",
+          "description": "Maverick returns to train the next generation.",
+          "genre": "Action/Drama"
+        }
+      ]
+    },
+    {
+      "name": "Korean & Chinese Dramas",
+      "videos": [
+        {
+          "id": 12,
+          "title": "Crash Landing on You",
+          "thumbnail": "/thumbnails/cloy.jpg",
+          "description": "A South Korean heiress lands in North Korea.",
+          "genre": "Romance/Drama"
+        },
+        {
+          "id": 13,
+          "title": "Eternal Love",
+          "thumbnail": "/thumbnails/eternal-love.jpg",
+          "description": "A love story spanning lifetimes in a fantasy world.",
+          "genre": "Fantasy/Romance"
+        },
+        {
+          "id": 14,
+          "title": "Vincenzo",
+          "thumbnail": "/thumbnails/vincenzo.jpg",
+          "description": "A mafia consigliere returns to Korea for justice.",
+          "genre": "Crime/Comedy"
+        },
+        {
+          "id": 15,
+          "title": "Descendants of the Sun",
+          "thumbnail": "/thumbnails/dots.jpg",
+          "description": "A soldier and a doctor fall in love in a war zone.",
+          "genre": "Romance/Action"
+        },
+        {
+          "id": 16,
+          "title": "The Untamed",
+          "thumbnail": "/thumbnails/untamed.jpg",
+          "description": "A story of powerful clans and forbidden magic.",
+          "genre": "Fantasy/Historical"
+        }
+      ]
+    }
+  ]
+}
